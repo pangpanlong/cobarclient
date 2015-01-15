@@ -10,6 +10,7 @@ you can start with cobar-client by reading the docuemntation bundled with the di
 
 GL & HF with cobar-client!
 
+详细的使用教程：http://afoo.me/shortcuts/cobarclient/zh/index.html
 
 ## Lisence 
 <pre>
